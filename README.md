@@ -1,4 +1,8 @@
-echo "# primeirorepversionado" >> README.md 
+echo "# Primeiro Repositório Versionado
+    
+    Esse repositório faz parte do curso de Git e Github ao vivo!
+
+" >> README.md 
 git init 
 git add README.md 
 git commit -m "first commit" 
