@@ -12,3 +12,8 @@
 
 [Git remote add origin (link para repositório remoto) !](https://github.com/ivansorgi/primeirorepversionado.git)
 
+
+
+![instagram-icon-960-Windows](https://github.com/ivansorgi/primeirorepversionado/assets/131409066/b4120f5a-8e89-4d54-9b94-0e2e507a858c)
+
+[Entre em contato comigo!](https://www.instagram.com/ivansorgi)
