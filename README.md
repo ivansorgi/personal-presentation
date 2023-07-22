@@ -1,4 +1,4 @@
-echo "# Primeiro Repositório Versionado
+ Primeiro Repositório Versionado
     
     Esse repositório faz parte do curso de Git e Github ao vivo!
 
